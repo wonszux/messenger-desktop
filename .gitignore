@@ -1,0 +1,11 @@
+node_modules
+*.local
+.DS_Store
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Tauri build output
+src-tauri/target
